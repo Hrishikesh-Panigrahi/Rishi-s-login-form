@@ -1,4 +1,4 @@
-package com.example.kt_assignment_1
+package com.example.andoid_assignment
 
 import org.junit.Test
 
